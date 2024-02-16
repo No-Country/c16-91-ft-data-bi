@@ -47,7 +47,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </a>
         <div>
           <a href="https://github.com/veronicamoroni" target="_blank" rel="author">
-            <h4>Verónica Camoroni</br><small>Data Scientist</small></h4>
+            <h4>Verónica Camoroni</br><small>Analysit BI</small></h4>
           </a>
         </div>
         <div>
@@ -64,7 +64,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </a>
         <div>
           <a href="https://github.com/kevincastellanos1" target="_blank" rel="author">
-            <h4>Kevin Castellanos</br><small>Data Scientist</small></h4>
+            <h4>Kevin Castellanos</br><small>Data Engineer</small></h4>
           </a>
         </div>
         <div>
@@ -98,7 +98,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </a>
         <div>
           <a href="https://github.com/Marki0" target="_blank" rel="author">
-            <h4>Marcos Miño</br><small>Data Scientist</small></h4>
+            <h4>Marcos Miño</br><small>Data Analyst</small></h4>
           </a>
         </div>
         <div>
@@ -115,7 +115,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </a>
         <div>
           <a href="https://github.com/sanabriadiego" target="_blank" rel="author">
-            <h4>Diego Sanabria</br><small>Data Scientist</small></h4>
+            <h4>Diego Sanabria</br><small>Machine Learning Developer</small></h4>
           </a>
         </div>
         <div>
@@ -132,7 +132,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </a>
         <div>
           <a href="https://github.com/MayraSierraAT" target="_blank" rel="author">
-            <h4>Diego Sanabria</br><small>Data Scientist</small></h4>
+            <h4>Mayra Sierra</br><small>Data Scientist</small></h4>
           </a>
         </div>
         <div>
