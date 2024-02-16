@@ -47,7 +47,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
         </a>
         <div>
           <a href="https://github.com/veronicamoroni" target="_blank" rel="author">
-            <h4>Verónica Camoroni</br><small>Analysit BI</small></h4>
+            <h4>Verónica Camoroni</br><small>Analyst BI</small></h4>
           </a>
         </div>
         <div>
