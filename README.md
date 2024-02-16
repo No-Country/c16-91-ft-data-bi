@@ -34,7 +34,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
 + NumPy 
 + Matplotlib 
 + Seaborn 
-+ Power BI
++ Looker
 
 <h2>Equipo de Desarrolladores</h2>
 
