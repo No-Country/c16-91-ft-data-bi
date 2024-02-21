@@ -105,7 +105,7 @@ Esta etapa implica revisiones exhaustivas de las tareas realizadas, similar a un
 
 ### Dashboard
 
-Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder al archivo a través del siguiente enlace: [(Enlace al Dashboard)] ()
+Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder al archivo a través del siguiente enlace: [(Enlace al Dashboard)]()
 
 ### Documentación
 
