@@ -1,5 +1,5 @@
 <div style="text-align:center;" align="center">
-  <img src="banner.png" alt="Banner de la empresa">
+  <img src="/General/Fintech Solver.png" alt="Logo de la empresa">
 </div>
 </br>
 </br>
@@ -61,6 +61,8 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
   [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
 
 ### Metodología
+
+<img src="/General/Scrum.png" width=500>
 
 **¿Cuál es la esencia de la metodología ágil Scrum?** Scrum promueve la colaboración dentro de un equipo con el objetivo de lograr tareas de manera exitosa en un periodo de tiempo reducido. Este enfoque no solo aumenta las probabilidades de éxito en un proyecto, sino que también impulsa el aprendizaje y la cohesión del equipo en cualquier organización que aspire a incorporar valores como flexibilidad, comunicación, innovación y productividad, entre otros.
 
@@ -174,7 +176,7 @@ Criterios de Aceptación:
 2. Incluir en las alertas acciones sugeridas para que los usuarios puedan tomar medidas inmediatas.
  
     -  `Diagrama de Gantt` [(link)]() →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto.
-    -  `Diccionario de datos` [(link)]()
+    -  `Diccionario de datos` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Diccionario%20de%20datos.docx)
 - **Data Analytics** [(link)]() → Información pertinente al trabajo realizado en el area de Data Analytics.
     - `Dashboard` [(link)]() →
 - **Data Science**
