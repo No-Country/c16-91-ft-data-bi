@@ -111,7 +111,7 @@ Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporc
 Aquí hallarás unos atajos para explorar los archivos almacenados en el repositorio.
 
 - **General** [(link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/General) → Información pertinente al proyecto completo.
-    - `Historias de Usuario` [(link)]() →
+    - `Historias de Usuario` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Historias%20de%20Usuario.docx) →
     -  `Diagrama de Gantt` [(link)]() →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto.
     -  `Diccionario de datos` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Diccionario%20de%20datos.docx)
 - **Data Analytics** [(link)]() → Información pertinente al trabajo realizado en el area de Data Analytics.
