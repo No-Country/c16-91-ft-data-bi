@@ -104,7 +104,7 @@ Esta etapa implica revisiones exhaustivas de las tareas realizadas, similar a un
 
 ### Dashboard
 
-Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder al archivo a través del siguiente enlace: [(Enlace al Dashboard)]()
+Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder a la presentación a través del siguiente enlace: [(Enlace a la presentación del Dashboard)]()
 
 ### Documentación
 
@@ -116,7 +116,7 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
     -  `Diccionario de datos` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Diccionario%20de%20datos.docx)
 - **Data Analytics** [(link)]() → Información pertinente al trabajo realizado en el area de Data Analytics.
     - `EDA` [(link)]() → Análisis Exploratorio de Datos
-    - `Dashboard` [(link)]() → Presentación formato PBIX de la información y visualización derevada del análisis de datos.
+    - `Dashboard` [(link)]() → Presentación formato PBIX de la información y visualización derivada del análisis de datos.
 - **Data Science**
     - `Modelo ML` [(Link)]() → Modelo de Machine-Learning.
     - `Deploy ML` [(Link)]() → Deploy del modelo de Machine-Learning.
