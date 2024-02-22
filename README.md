@@ -121,8 +121,9 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
     - `Modelo ML` [(Link)]() → Modelo de Machine-Learning.
     - `Deploy ML` [(Link)]() → Deploy del modelo de Machine-Learning.
 - **Producto**
-    - `WEB` [(Link)]() → 
-      
+    - `WEB` [(Link)]() → Producto Web
+- **Data** [(Link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/Data) → Fuente de datos
+- **Scr** [(Link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/Scr) → Imágenes
 
 ### <h2 align='center'>Equipo de desarrolladores</h2>
 
