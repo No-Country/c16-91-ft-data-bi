@@ -1,5 +1,5 @@
 <div style="text-align:center;" align="center">
-  <img src="/General/Fintech Solver.png" alt="Logo de la empresa">
+  <img src="/Scr/Fintech Solver.png" alt="Logo de la empresa">
 </div>
 </br>
 </br>
@@ -62,7 +62,7 @@ El proyecto se enfoca en proporcionar una solución integral para la detección 
 
 ### Metodología
 
-<img src="/General/Scrum.png" width=500>
+<img src="/Scr/Scrum.png" width=500>
 
 **¿Cuál es la esencia de la metodología ágil Scrum?** Scrum promueve la colaboración dentro de un equipo con el objetivo de lograr tareas de manera exitosa en un periodo de tiempo reducido. Este enfoque no solo aumenta las probabilidades de éxito en un proyecto, sino que también impulsa el aprendizaje y la cohesión del equipo en cualquier organización que aspire a incorporar valores como flexibilidad, comunicación, innovación y productividad, entre otros.
 
