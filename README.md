@@ -115,7 +115,8 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
     -  `Diagrama de Gantt` [(link)]() →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto.
     -  `Diccionario de datos` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Diccionario%20de%20datos.docx)
 - **Data Analytics** [(link)]() → Información pertinente al trabajo realizado en el area de Data Analytics.
-    - `Dashboard` [(link)]() →
+    - `EDA` [(link)]() → Análisis Exploratorio de Datos
+    - `Dashboard` [(link)]() → Presentación formato PBIX de la información y visualización derevada del análisis de datos.
 - **Data Science**
     - `Modelo ML` [(Link)]() → Modelo de Machine-Learning.
     - `Deploy ML` [(Link)]() → Deploy del modelo de Machine-Learning.
