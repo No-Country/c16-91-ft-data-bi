@@ -116,8 +116,8 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
 - **Data Analytics** [(link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/Data%20Analytics) → Información pertinente al trabajo realizado en el area de Data Analytics.
     - `EDA` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/Data%20Analytics/EDA.ipynb) → Análisis Exploratorio de Datos
     - `Dashboard` [(link)]() → Presentación formato PBIX de la información y visualización derivada del análisis de datos.
-- **Data Science**
-    - `Modelo ML` [(Link)]() → Modelo de Machine-Learning.
+- **Data Science** [(link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/Data%20Science) → Información pertinente al trabajo realizado en el area de Data Science.
+    - `Modelo ML` [(Link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/Data%20Science/ml_analisys.ipynb) → Modelo de Machine-Learning.
     - `Deploy ML` [(Link)]() → Deploy del modelo de Machine-Learning.
 - **Producto**
     - `WEB` [(Link)]() → Producto Web
