@@ -112,10 +112,9 @@ Aquí hallarás unos atajos para explorar los archivos almacenados en el reposit
 
 - **General** [(link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/General) → Información pertinente al proyecto completo.
     - `Historias de Usuario` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Historias%20de%20Usuario.pdf) → Contiene breves descripciones de la funcionalidad deseada en cada rol desde la perspectiva del usuario final.
-    -  `Diagrama de Gantt` [(link)]() →  En este diagrama de Gantt encontrarán las tareas que se llevaron a cabo en el proyecto.
     -  `Diccionario de datos` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/General/Diccionario%20de%20datos.pdf)
-- **Data Analytics** [(link)]() → Información pertinente al trabajo realizado en el area de Data Analytics.
-    - `EDA` [(link)]() → Análisis Exploratorio de Datos
+- **Data Analytics** [(link)](https://github.com/No-Country/c16-91-ft-data-bi/tree/main/Data%20Analytics) → Información pertinente al trabajo realizado en el area de Data Analytics.
+    - `EDA` [(link)](https://github.com/No-Country/c16-91-ft-data-bi/blob/main/Data%20Analytics/EDA.ipynb) → Análisis Exploratorio de Datos
     - `Dashboard` [(link)]() → Presentación formato PBIX de la información y visualización derivada del análisis de datos.
 - **Data Science**
     - `Modelo ML` [(Link)]() → Modelo de Machine-Learning.
