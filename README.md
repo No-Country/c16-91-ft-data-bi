@@ -104,7 +104,7 @@ Esta etapa implica revisiones exhaustivas de las tareas realizadas, similar a un
 
 ### Dashboard
 
-Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder a la presentación a través del siguiente enlace: [(Enlace a la presentación del Dashboard)]()
+Dentro de nuestro proyecto, hemos desarrollado un dashboard integral que proporciona información esencial y visualizaciones detalladas derivadas del análisis de datos. Puedes acceder a la presentación a través del siguiente enlace: [(link)](https://lookerstudio.google.com/embed/u/0/reporting/fdf60c30-90fd-4298-b249-ec636c55ee3d/page/p_9o97ftsted)
 
 ### Documentación
 
